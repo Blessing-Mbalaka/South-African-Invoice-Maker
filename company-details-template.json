@@ -1,0 +1,17 @@
+{
+  "companyName": "Your Company Name",
+  "address": "123 Business Street",
+  "city": "Johannesburg",
+  "province": "Gauteng",
+  "postalCode": "2000",
+  "country": "South Africa",
+  "phone": "+27 11 123 4567",
+  "email": "info@yourcompany.co.za",
+  "registrationNumber": "2023/123456/07",
+  "vatNumber": "4123456789",
+  "bankName": "First National Bank (FNB)",
+  "bankAccountName": "Your Company Name",
+  "bankAccountNumber": "62812345678",
+  "bankBranchCode": "250655",
+  "bankAccountType": "Business Cheque Account"
+}

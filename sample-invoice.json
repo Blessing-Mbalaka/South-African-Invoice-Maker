@@ -1,0 +1,29 @@
+{
+  "invoiceNumber": "INV-001",
+  "invoiceDate": "2026-02-08",
+  "dueDate": "2026-03-10",
+  "client": {
+    "name": "ABC Corporation",
+    "address": "456 Client Street\nSandton, Johannesburg\n2196",
+    "email": "contact@abccorp.co.za",
+    "phone": "+27 11 234 5678"
+  },
+  "lineItems": [
+    {
+      "description": "Website Design & Development",
+      "quantity": 1,
+      "price": 15000.00
+    },
+    {
+      "description": "SEO Optimization Package",
+      "quantity": 3,
+      "price": 2500.00
+    },
+    {
+      "description": "Monthly Maintenance (3 months)",
+      "quantity": 3,
+      "price": 1500.00
+    }
+  ],
+  "notes": "Payment due within 30 days.\nBank transfer preferred.\nPlease use invoice number as reference."
+}
